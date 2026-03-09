@@ -8,7 +8,8 @@
 *   Current Version: [Summer 2023](https://ki-seminar.github.io/23s)
 
 ## Link to the Course Website
-You can have a look at the [Course Website](https://ki-seminar.github.io/23s/)
+* You can have a look at the [Course Website](https://ki-seminar.github.io/23s/)
+* **Our contribution page:** [Empfehlungssysteme](https://ki-seminar.github.io/23s/Themen/Empfehlungssysteme/)
 
 ## Building the Site
 
